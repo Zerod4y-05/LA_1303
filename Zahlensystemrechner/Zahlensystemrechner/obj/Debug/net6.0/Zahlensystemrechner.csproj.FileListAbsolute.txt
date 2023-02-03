@@ -1,0 +1,15 @@
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\bin\Debug\net6.0\Zahlensystemrechner.exe
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\bin\Debug\net6.0\Zahlensystemrechner.deps.json
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\bin\Debug\net6.0\Zahlensystemrechner.runtimeconfig.json
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\bin\Debug\net6.0\Zahlensystemrechner.dll
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\bin\Debug\net6.0\Zahlensystemrechner.pdb
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.csproj.AssemblyReference.cache
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.AssemblyInfoInputs.cache
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.AssemblyInfo.cs
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.csproj.CoreCompileInputs.cache
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.dll
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\refint\Zahlensystemrechner.dll
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.pdb
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\Zahlensystemrechner.genruntimeconfig.cache
+C:\Users\Jurya\source\repos\Zahlensystemrechner\Zahlensystemrechner\obj\Debug\net6.0\ref\Zahlensystemrechner.dll
